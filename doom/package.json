@@ -1,0 +1,11 @@
+{
+  "name": "DoomWeb",
+  "version": "1.0.0",
+  "description": "js-dos 6.22 running Doom",
+  "scripts": {
+    "start": "http-server",
+  },
+  "dependencies": {
+    "http_server": "^1.0.12"
+  }
+}
