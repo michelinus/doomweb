@@ -6,6 +6,6 @@
     "start": "http-server"
   },
   "dependencies": {
-    "http_server": "^1.0.12"
+    "http-server": "^14.1.1"
   }
 }
